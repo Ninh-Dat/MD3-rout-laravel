@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Laravel/ninhdat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ninhdat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ninhdat/ninhdat" vcs="Git" />
+  </component>
+</project>
